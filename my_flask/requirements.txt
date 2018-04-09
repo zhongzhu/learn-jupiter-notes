@@ -1,0 +1,6 @@
+flask
+flask-restplus
+Flask-HTTPAuth
+pyjwt
+gunicorn
+gevent
